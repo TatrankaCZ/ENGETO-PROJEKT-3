@@ -1,6 +1,6 @@
 # Engeto projekt 3
 
-# Třetí projekt pro online kurz ENGETO
+## Třetí projekt pro online kurz ENGETO
 
 ## Popis
 
@@ -29,7 +29,7 @@ Doporučují použít virtuální prostředí a instalovat knihovny následovně
 
 `python3 "jméno skriptu.py" "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101" "vysledky_benesov.csv"`
 
-# Průběh stahování:
+## Průběh stahování:
 
 ```
 Working...  
@@ -37,7 +37,7 @@ Working...
 DONE
 ```
 
-# Částečný výstup:
+## Částečný výstup:
 
 ```
 code,location,registered,envelopes,valid...
