@@ -16,7 +16,7 @@ Doporučují použít virtuální prostředí a instalovat knihovny následovně
 
 ## Spuštění projektu
 
-`python3 "jméno skriptu.py" "<url na stránku>" "<Jméno výstupového souboru>"`
+`python3 "Election scraper.py" "<url na stránku>" "<Jméno výstupového souboru>"`
 
 ## Ukázka projektu
 
@@ -27,7 +27,7 @@ Doporučují použít virtuální prostředí a instalovat knihovny následovně
 
 ## Spuštění programu:
 
-`python3 "jméno skriptu.py" "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101" "vysledky_benesov.csv"`
+`python3 "Election scraper.py" "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101" "vysledky_benesov.csv"`
 
 ## Průběh stahování:
 
